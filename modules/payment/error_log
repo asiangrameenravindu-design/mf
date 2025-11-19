@@ -1,0 +1,191 @@
+[21-Oct-2025 19:31:47 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:31:51 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:31:55 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:31:58 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:32:06 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:52:39 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:53:00 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:53:54 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:53:56 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 19:53:56 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:53:56 Asia/Colombo] Method: POST
+[21-Oct-2025 19:53:56 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:53:56 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:53:56 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:53:56 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7977c25091","to":"94778969190","from":"TextLKDemo","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 19:53:56 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:53:56 Asia/Colombo] ====================
+[21-Oct-2025 19:53:56 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 19:53:56 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:53:56 Asia/Colombo] Method: POST
+[21-Oct-2025 19:53:56 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:53:56 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:53:56 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:53:56 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 19:53:56 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:53:56 Asia/Colombo] ====================
+[21-Oct-2025 19:54:24 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:54:26 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 19:54:26 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:54:26 Asia/Colombo] Method: POST
+[21-Oct-2025 19:54:26 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:54:26 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:54:26 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:54:26 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7979ad8d4c","to":"94778969190","from":"TextLKDemo","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 19:54:26 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:54:26 Asia/Colombo] ====================
+[21-Oct-2025 19:54:27 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 19:54:27 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:54:27 Asia/Colombo] Method: POST
+[21-Oct-2025 19:54:27 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:54:27 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:54:27 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:54:27 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 19:54:27 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:54:27 Asia/Colombo] ====================
+[21-Oct-2025 19:54:40 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:54:42 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 19:54:42 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:54:42 Asia/Colombo] Method: POST
+[21-Oct-2025 19:54:42 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:54:42 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:54:42 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:54:42 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f797aa0585d","to":"94778969190","from":"TextLKDemo","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 19:54:42 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:54:42 Asia/Colombo] ====================
+[21-Oct-2025 19:54:42 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 19:54:42 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:54:42 Asia/Colombo] Method: POST
+[21-Oct-2025 19:54:42 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:54:42 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:54:42 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:54:42 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 19:54:42 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:54:42 Asia/Colombo] ====================
+[21-Oct-2025 19:54:48 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:54:49 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 19:54:49 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:54:49 Asia/Colombo] Method: POST
+[21-Oct-2025 19:54:49 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:54:49 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:54:49 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:54:49 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f797b1d865e","to":"94778969190","from":"TextLKDemo","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 19:54:49 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:54:49 Asia/Colombo] ====================
+[21-Oct-2025 19:54:50 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 19:54:50 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:54:50 Asia/Colombo] Method: POST
+[21-Oct-2025 19:54:50 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:54:50 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:54:50 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:54:50 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 19:54:50 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:54:50 Asia/Colombo] ====================
+[21-Oct-2025 19:57:17 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:57:19 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 19:57:19 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:57:19 Asia/Colombo] Method: POST
+[21-Oct-2025 19:57:19 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:57:19 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:57:19 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:57:19 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f79847bec8a","to":"94778969190","from":"TextLKDemo","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 19:57:19 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:57:19 Asia/Colombo] ====================
+[21-Oct-2025 19:57:19 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 19:57:19 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:57:19 Asia/Colombo] Method: POST
+[21-Oct-2025 19:57:19 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:57:19 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:57:19 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:57:19 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 19:57:19 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:57:19 Asia/Colombo] ====================
+[21-Oct-2025 19:57:31 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:57:33 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 19:57:33 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:57:33 Asia/Colombo] Method: POST
+[21-Oct-2025 19:57:33 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:57:33 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:57:33 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:57:33 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f798559d7a3","to":"94778969190","from":"TextLKDemo","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 19:57:33 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:57:33 Asia/Colombo] ====================
+[21-Oct-2025 19:57:33 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 19:57:33 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:57:33 Asia/Colombo] Method: POST
+[21-Oct-2025 19:57:33 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:57:33 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:57:33 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:57:33 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 19:57:33 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:57:33 Asia/Colombo] ====================
+[21-Oct-2025 19:57:52 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:57:54 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 19:57:54 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:57:54 Asia/Colombo] Method: POST
+[21-Oct-2025 19:57:54 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:57:54 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:57:54 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:57:54 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7986a54279","to":"94778969190","from":"TextLKDemo","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 19:57:54 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:57:54 Asia/Colombo] ====================
+[21-Oct-2025 19:57:54 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 19:57:54 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:57:54 Asia/Colombo] Method: POST
+[21-Oct-2025 19:57:54 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:57:54 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:57:54 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:57:54 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 19:57:54 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:57:54 Asia/Colombo] ====================
+[21-Oct-2025 20:20:32 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:20:37 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:20:39 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:20:55 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:20:57 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 20:20:57 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 20:20:57 Asia/Colombo] Method: POST
+[21-Oct-2025 20:20:57 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 20:20:57 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 20:20:57 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 20:20:57 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f79dd15e2a7","to":"94778969190","from":"TextLKDemo","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 20:20:57 Asia/Colombo] cURL Error: 
+[21-Oct-2025 20:20:57 Asia/Colombo] ====================
+[21-Oct-2025 20:20:57 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 20:20:57 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 20:20:57 Asia/Colombo] Method: POST
+[21-Oct-2025 20:20:57 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 20:20:57 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 20:20:57 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 20:20:57 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 20:20:57 Asia/Colombo] cURL Error: 
+[21-Oct-2025 20:20:57 Asia/Colombo] ====================
+[21-Oct-2025 20:21:08 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:21:10 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 20:21:10 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 20:21:10 Asia/Colombo] Method: POST
+[21-Oct-2025 20:21:10 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 20:21:10 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 20:21:10 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 20:21:10 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f79dde7a81e","to":"94778969190","from":"TextLKDemo","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 20:21:10 Asia/Colombo] cURL Error: 
+[21-Oct-2025 20:21:10 Asia/Colombo] ====================
+[21-Oct-2025 20:21:10 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 20:21:10 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 20:21:10 Asia/Colombo] Method: POST
+[21-Oct-2025 20:21:10 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 20:21:10 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear HAMMANA VIDANA ARACHCHIGE RAVINDU, payment of Rs. 2,600.00 received for loan LN\/1\/2025\/0017. Total paid: Rs. 52,200.00. Remaining: Rs. 15,400.00. Date: 2025-10-21 - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 20:21:10 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 20:21:10 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 20:21:10 Asia/Colombo] cURL Error: 
+[21-Oct-2025 20:21:10 Asia/Colombo] ====================
+[21-Oct-2025 20:21:14 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:08:04 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:08:13 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:08:18 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:09:35 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:09:53 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:52:42 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:52:49 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[23-Oct-2025 10:13:07 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/dtrmfslh/public_html/modules/payment/payment_history.php on line 307
+[23-Oct-2025 10:13:11 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/dtrmfslh/public_html/modules/payment/payment_history.php on line 307

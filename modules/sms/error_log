@@ -1,0 +1,1 @@
+[09-Nov-2025 09:49:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6

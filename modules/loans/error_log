@@ -1,0 +1,724 @@
+[21-Oct-2025 19:31:20 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:31:28 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:31:29 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:31:32 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:31:34 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:39:02 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:39:11 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:39:17 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:39:19 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 19:39:19 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:39:19 Asia/Colombo] Method: POST
+[21-Oct-2025 19:39:19 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:39:19 Asia/Colombo] Data: {"recipient":"+94762860746","message":"Congratulations LOKUKAM HEWAGE TISHAN RAVISHKA! Your loan LN\/1\/2025\/0046 for Rs. 50,000.00 has been approved. Total repayment: Rs. 67,600.00. Weekly installment: Rs. 2,600.00 for 26 weeks. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:39:19 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:39:19 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7940f86c4c","to":"94762860746","from":"TextLKDemo","message":"Congratulations LOKUKAM HEWAGE TISHAN RAVISHKA! Your loan LN\/1\/2025\/0046 for Rs. 50,000.00 has been approved. Total repayment: Rs. 67,600.00. Weekly installment: Rs. 2,600.00 for 26 weeks. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 19:39:19 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:39:19 Asia/Colombo] ====================
+[21-Oct-2025 19:39:19 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 19:39:19 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:39:19 Asia/Colombo] Method: POST
+[21-Oct-2025 19:39:19 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:39:19 Asia/Colombo] Data: {"to":"+94762860746","message":"Congratulations LOKUKAM HEWAGE TISHAN RAVISHKA! Your loan LN\/1\/2025\/0046 for Rs. 50,000.00 has been approved. Total repayment: Rs. 67,600.00. Weekly installment: Rs. 2,600.00 for 26 weeks. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:39:19 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:39:19 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 19:39:19 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:39:19 Asia/Colombo] ====================
+[21-Oct-2025 19:40:31 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:40:43 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:40:53 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:40:57 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:40:59 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 19:40:59 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:40:59 Asia/Colombo] Method: POST
+[21-Oct-2025 19:40:59 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:40:59 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Congratulations dddd dddddd! Your loan LN\/1\/2025\/0043 for Rs. 80,000.00 has been approved. Total repayment: Rs. 108,000.00. Weekly installment: Rs. 3,600.00 for 30 weeks. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:40:59 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:40:59 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f79473a7a17","to":"94778969190","from":"TextLKDemo","message":"Congratulations dddd dddddd! Your loan LN\/1\/2025\/0043 for Rs. 80,000.00 has been approved. Total repayment: Rs. 108,000.00. Weekly installment: Rs. 3,600.00 for 30 weeks. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 19:40:59 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:40:59 Asia/Colombo] ====================
+[21-Oct-2025 19:40:59 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 19:40:59 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:40:59 Asia/Colombo] Method: POST
+[21-Oct-2025 19:40:59 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:40:59 Asia/Colombo] Data: {"to":"+94778969190","message":"Congratulations dddd dddddd! Your loan LN\/1\/2025\/0043 for Rs. 80,000.00 has been approved. Total repayment: Rs. 108,000.00. Weekly installment: Rs. 3,600.00 for 30 weeks. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:40:59 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:40:59 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 19:40:59 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:40:59 Asia/Colombo] ====================
+[21-Oct-2025 19:41:42 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:43:38 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:59:39 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:59:45 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:59:49 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:59:51 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 19:59:51 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:59:51 Asia/Colombo] Method: POST
+[21-Oct-2025 19:59:51 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:59:51 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Congratulations dddd dddddd! Your loan LN\/1\/2025\/0041 for Rs. 50,000.00 has been approved. Total repayment: Rs. 67,600.00. Weekly installment: Rs. 2,600.00 for 26 weeks. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:59:51 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:59:51 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f798df36617","to":"94778969190","from":"TextLKDemo","message":"Congratulations dddd dddddd! Your loan LN\/1\/2025\/0041 for Rs. 50,000.00 has been approved. Total repayment: Rs. 67,600.00. Weekly installment: Rs. 2,600.00 for 26 weeks. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 19:59:51 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:59:51 Asia/Colombo] ====================
+[21-Oct-2025 19:59:51 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 19:59:51 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 19:59:51 Asia/Colombo] Method: POST
+[21-Oct-2025 19:59:51 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 19:59:51 Asia/Colombo] Data: {"to":"+94778969190","message":"Congratulations dddd dddddd! Your loan LN\/1\/2025\/0041 for Rs. 50,000.00 has been approved. Total repayment: Rs. 67,600.00. Weekly installment: Rs. 2,600.00 for 26 weeks. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 19:59:51 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 19:59:51 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 19:59:51 Asia/Colombo] cURL Error: 
+[21-Oct-2025 19:59:51 Asia/Colombo] ====================
+[21-Oct-2025 20:00:10 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:07:59 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:12:02 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:12:02 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:12:08 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:12:12 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:12:14 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 20:12:14 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 20:12:14 Asia/Colombo] Method: POST
+[21-Oct-2025 20:12:14 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 20:12:14 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Congratulations dddd dddddd! Your loan LN\/1\/2025\/0042 for Rs. 35,000.00 has been approved. Total repayment: Rs. 47,250.00. Weekly installment: Rs. 1,890.00 for 25 weeks. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 20:12:14 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 20:12:14 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f79bc656eb7","to":"94778969190","from":"TextLKDemo","message":"Congratulations dddd dddddd! Your loan LN\/1\/2025\/0042 for Rs. 35,000.00 has been approved. Total repayment: Rs. 47,250.00. Weekly installment: Rs. 1,890.00 for 25 weeks. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 20:12:14 Asia/Colombo] cURL Error: 
+[21-Oct-2025 20:12:14 Asia/Colombo] ====================
+[21-Oct-2025 20:12:14 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 20:12:14 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 20:12:14 Asia/Colombo] Method: POST
+[21-Oct-2025 20:12:14 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 20:12:14 Asia/Colombo] Data: {"to":"+94778969190","message":"Congratulations dddd dddddd! Your loan LN\/1\/2025\/0042 for Rs. 35,000.00 has been approved. Total repayment: Rs. 47,250.00. Weekly installment: Rs. 1,890.00 for 25 weeks. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 20:12:14 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 20:12:14 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 20:12:14 Asia/Colombo] cURL Error: 
+[21-Oct-2025 20:12:14 Asia/Colombo] ====================
+[21-Oct-2025 20:12:28 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:12:28 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:12:42 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:12:53 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:12:55 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 20:12:55 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 20:12:55 Asia/Colombo] Method: POST
+[21-Oct-2025 20:12:55 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 20:12:55 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Congratulations dddd dddddd! Your loan LN\/1\/2025\/0037 for Rs. 20,000.00 has been approved. Total repayment: Rs. 27,060.00. Weekly installment: Rs. 1,230.00 for 22 weeks. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 20:12:55 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 20:12:55 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f79bef1cec9","to":"94778969190","from":"TextLKDemo","message":"Congratulations dddd dddddd! Your loan LN\/1\/2025\/0037 for Rs. 20,000.00 has been approved. Total repayment: Rs. 27,060.00. Weekly installment: Rs. 1,230.00 for 22 weeks. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 20:12:55 Asia/Colombo] cURL Error: 
+[21-Oct-2025 20:12:55 Asia/Colombo] ====================
+[21-Oct-2025 20:12:55 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 20:12:55 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 20:12:55 Asia/Colombo] Method: POST
+[21-Oct-2025 20:12:55 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 20:12:55 Asia/Colombo] Data: {"to":"+94778969190","message":"Congratulations dddd dddddd! Your loan LN\/1\/2025\/0037 for Rs. 20,000.00 has been approved. Total repayment: Rs. 27,060.00. Weekly installment: Rs. 1,230.00 for 22 weeks. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 20:12:55 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 20:12:55 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 20:12:55 Asia/Colombo] cURL Error: 
+[21-Oct-2025 20:12:55 Asia/Colombo] ====================
+[21-Oct-2025 20:13:30 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:13:39 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:16:01 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:16:19 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:16:19 Asia/Colombo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dtrmfslh/public_html/modules/loans/edit_loan.php on line 564
+[21-Oct-2025 20:16:58 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:16:58 Asia/Colombo] Error creating installments: Field 'due_date' doesn't have a default value
+[21-Oct-2025 20:18:38 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:18:56 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:19:21 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:19:25 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:19:30 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:19:43 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:19:44 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:19:53 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:20:01 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:03:51 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:03:55 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:04:00 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:04:02 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 22:04:02 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:04:02 Asia/Colombo] Method: POST
+[21-Oct-2025 22:04:02 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:04:02 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Congratulations dddd dddddd! Your loan LN\/1\/2025\/0036 for Rs. 20,000.00 has been approved. Total repayment: Rs. 27,060.00. Weekly installment: Rs. 1,230.00 for 22 weeks. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:04:02 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:04:02 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7b5fa4b742","to":"94778969190","from":"TextLKDemo","message":"Congratulations dddd dddddd! Your loan LN\/1\/2025\/0036 for Rs. 20,000.00 has been approved. Total repayment: Rs. 27,060.00. Weekly installment: Rs. 1,230.00 for 22 weeks. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 22:04:02 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:04:02 Asia/Colombo] ====================
+[21-Oct-2025 22:04:02 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 22:04:02 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:04:02 Asia/Colombo] Method: POST
+[21-Oct-2025 22:04:02 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:04:02 Asia/Colombo] Data: {"to":"+94778969190","message":"Congratulations dddd dddddd! Your loan LN\/1\/2025\/0036 for Rs. 20,000.00 has been approved. Total repayment: Rs. 27,060.00. Weekly installment: Rs. 1,230.00 for 22 weeks. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:04:02 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:04:02 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 22:04:02 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:04:02 Asia/Colombo] ====================
+[21-Oct-2025 22:04:25 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:04:25 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:10:43 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:10:44 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Data truncated for column 'status' at row 1 in /home/dtrmfslh/public_html/modules/loans/view.php:245
+Stack trace:
+#0 /home/dtrmfslh/public_html/modules/loans/view.php(245): mysqli_stmt->execute()
+#1 /home/dtrmfslh/public_html/modules/loans/view.php(365): updateAllInstallmentStatuses(25)
+#2 /home/dtrmfslh/public_html/modules/loans/view.php(857): autoFixOverpaymentsForInstallments(25)
+#3 {main}
+  thrown in /home/dtrmfslh/public_html/modules/loans/view.php on line 245
+[21-Oct-2025 22:11:07 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:11:45 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:11:46 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Data truncated for column 'status' at row 1 in /home/dtrmfslh/public_html/modules/loans/view.php:245
+Stack trace:
+#0 /home/dtrmfslh/public_html/modules/loans/view.php(245): mysqli_stmt->execute()
+#1 /home/dtrmfslh/public_html/modules/loans/view.php(365): updateAllInstallmentStatuses(25)
+#2 /home/dtrmfslh/public_html/modules/loans/view.php(857): autoFixOverpaymentsForInstallments(25)
+#3 {main}
+  thrown in /home/dtrmfslh/public_html/modules/loans/view.php on line 245
+[21-Oct-2025 22:17:14 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:17:23 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:17:30 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:17:33 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:17:38 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:17:39 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:17:48 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:17:54 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:17:57 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:17:57 Asia/Colombo] Error creating installments: Field 'due_date' doesn't have a default value
+[21-Oct-2025 22:18:00 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 22:18:00 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:18:00 Asia/Colombo] Method: POST
+[21-Oct-2025 22:18:00 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:18:00 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:18:00 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:18:00 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7b9407f22c","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 22:18:00 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:18:00 Asia/Colombo] ====================
+[21-Oct-2025 22:18:00 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 22:18:00 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:18:00 Asia/Colombo] Method: POST
+[21-Oct-2025 22:18:00 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:18:00 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:18:00 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:18:00 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 22:18:00 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:18:00 Asia/Colombo] ====================
+[21-Oct-2025 22:18:25 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:18:25 Asia/Colombo] Error creating installments: Field 'due_date' doesn't have a default value
+[21-Oct-2025 22:18:26 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 22:18:26 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:18:26 Asia/Colombo] Method: POST
+[21-Oct-2025 22:18:26 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:18:26 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:18:26 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:18:26 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7b95adcfec","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 22:18:26 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:18:26 Asia/Colombo] ====================
+[21-Oct-2025 22:18:27 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 22:18:27 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:18:27 Asia/Colombo] Method: POST
+[21-Oct-2025 22:18:27 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:18:27 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:18:27 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:18:27 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 22:18:27 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:18:27 Asia/Colombo] ====================
+[21-Oct-2025 22:18:58 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:19:12 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:19:21 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:19:27 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:19:27 Asia/Colombo] Error creating installments: Field 'due_date' doesn't have a default value
+[21-Oct-2025 22:19:29 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 22:19:29 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:19:29 Asia/Colombo] Method: POST
+[21-Oct-2025 22:19:29 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:19:29 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:19:29 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:19:29 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7b99920a49","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 22:19:29 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:19:29 Asia/Colombo] ====================
+[21-Oct-2025 22:19:29 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 22:19:29 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:19:29 Asia/Colombo] Method: POST
+[21-Oct-2025 22:19:29 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:19:29 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:19:29 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:19:29 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 22:19:29 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:19:29 Asia/Colombo] ====================
+[21-Oct-2025 22:24:04 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:24:04 Asia/Colombo] Error creating installments: Field 'due_date' doesn't have a default value
+[21-Oct-2025 22:24:06 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 22:24:06 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:24:06 Asia/Colombo] Method: POST
+[21-Oct-2025 22:24:06 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:24:06 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:24:06 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:24:06 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7baaeb58c5","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 22:24:06 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:24:06 Asia/Colombo] ====================
+[21-Oct-2025 22:24:06 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 22:24:06 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:24:06 Asia/Colombo] Method: POST
+[21-Oct-2025 22:24:06 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:24:06 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:24:06 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:24:06 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 22:24:06 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:24:06 Asia/Colombo] ====================
+[21-Oct-2025 22:24:13 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:24:13 Asia/Colombo] Error creating installments: Field 'due_date' doesn't have a default value
+[21-Oct-2025 22:24:15 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 22:24:15 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:24:15 Asia/Colombo] Method: POST
+[21-Oct-2025 22:24:15 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:24:15 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:24:15 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:24:15 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7bab759528","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 22:24:15 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:24:15 Asia/Colombo] ====================
+[21-Oct-2025 22:24:15 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 22:24:15 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:24:15 Asia/Colombo] Method: POST
+[21-Oct-2025 22:24:15 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:24:15 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:24:15 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:24:15 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 22:24:15 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:24:15 Asia/Colombo] ====================
+[21-Oct-2025 22:24:23 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:24:23 Asia/Colombo] Error creating installments: Field 'due_date' doesn't have a default value
+[21-Oct-2025 22:24:24 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 22:24:24 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:24:24 Asia/Colombo] Method: POST
+[21-Oct-2025 22:24:24 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:24:24 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:24:24 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:24:24 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7bac097cf4","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 22:24:24 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:24:24 Asia/Colombo] ====================
+[21-Oct-2025 22:24:24 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 22:24:24 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:24:24 Asia/Colombo] Method: POST
+[21-Oct-2025 22:24:24 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:24:24 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:24:24 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:24:24 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 22:24:24 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:24:24 Asia/Colombo] ====================
+[21-Oct-2025 22:25:40 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:25:43 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:25:48 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:25:50 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 22:25:50 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:25:50 Asia/Colombo] Method: POST
+[21-Oct-2025 22:25:50 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:25:50 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Congratulations HAMMANA VIrDANA ARACHCHIGE RAVINDU! Your loan LN\/3\/2025\/0006 for Rs. 50,000.00 has been approved. Total repayment: Rs. 67,600.00. Weekly installment: Rs. 2,600.00 for 26 weeks. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:25:50 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:25:50 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7bb1632861","to":"94778969190","from":"TextLKDemo","message":"Congratulations HAMMANA VIrDANA ARACHCHIGE RAVINDU! Your loan LN\/3\/2025\/0006 for Rs. 50,000.00 has been approved. Total repayment: Rs. 67,600.00. Weekly installment: Rs. 2,600.00 for 26 weeks. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 22:25:50 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:25:50 Asia/Colombo] ====================
+[21-Oct-2025 22:25:50 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 22:25:50 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:25:50 Asia/Colombo] Method: POST
+[21-Oct-2025 22:25:50 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:25:50 Asia/Colombo] Data: {"to":"+94778969190","message":"Congratulations HAMMANA VIrDANA ARACHCHIGE RAVINDU! Your loan LN\/3\/2025\/0006 for Rs. 50,000.00 has been approved. Total repayment: Rs. 67,600.00. Weekly installment: Rs. 2,600.00 for 26 weeks. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:25:50 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:25:50 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 22:25:50 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:25:50 Asia/Colombo] ====================
+[21-Oct-2025 22:26:09 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:26:09 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:26:19 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:26:25 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:26:28 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:26:28 Asia/Colombo] Error creating installments: Field 'due_date' doesn't have a default value
+[21-Oct-2025 22:26:29 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 22:26:29 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:26:29 Asia/Colombo] Method: POST
+[21-Oct-2025 22:26:29 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:26:29 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:26:29 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:26:29 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7bb3ddd237","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 22:26:29 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:26:29 Asia/Colombo] ====================
+[21-Oct-2025 22:26:30 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 22:26:30 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:26:30 Asia/Colombo] Method: POST
+[21-Oct-2025 22:26:30 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:26:30 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:26:30 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:26:30 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 22:26:30 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:26:30 Asia/Colombo] ====================
+[21-Oct-2025 22:27:46 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:27:46 Asia/Colombo] Error creating installments: Field 'due_date' doesn't have a default value
+[21-Oct-2025 22:27:47 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 22:27:47 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:27:47 Asia/Colombo] Method: POST
+[21-Oct-2025 22:27:47 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:27:47 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:27:47 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:27:47 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7bb8b90d72","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 22:27:47 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:27:47 Asia/Colombo] ====================
+[21-Oct-2025 22:27:47 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 22:27:47 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:27:47 Asia/Colombo] Method: POST
+[21-Oct-2025 22:27:47 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:27:47 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:27:47 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:27:47 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 22:27:47 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:27:47 Asia/Colombo] ====================
+[21-Oct-2025 22:34:12 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:34:12 Asia/Colombo] Error creating installments: Field 'due_date' doesn't have a default value
+[21-Oct-2025 22:34:15 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 22:34:15 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:34:15 Asia/Colombo] Method: POST
+[21-Oct-2025 22:34:15 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:34:15 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:34:15 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:34:15 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7bd0f385af","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 22:34:15 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:34:15 Asia/Colombo] ====================
+[21-Oct-2025 22:34:15 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 22:34:15 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:34:15 Asia/Colombo] Method: POST
+[21-Oct-2025 22:34:15 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:34:15 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:34:15 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:34:15 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 22:34:15 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:34:15 Asia/Colombo] ====================
+[21-Oct-2025 22:34:26 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:34:26 Asia/Colombo] Error creating installments: Field 'due_date' doesn't have a default value
+[21-Oct-2025 22:34:27 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 22:34:27 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:34:27 Asia/Colombo] Method: POST
+[21-Oct-2025 22:34:27 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:34:27 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:34:27 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:34:27 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7bd1bdcb6a","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 22:34:27 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:34:27 Asia/Colombo] ====================
+[21-Oct-2025 22:34:28 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 22:34:28 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:34:28 Asia/Colombo] Method: POST
+[21-Oct-2025 22:34:28 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:34:28 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:34:28 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:34:28 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 22:34:28 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:34:28 Asia/Colombo] ====================
+[21-Oct-2025 22:44:39 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:44:43 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:45:06 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:45:09 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:45:53 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:47:00 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:47:01 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Data truncated for column 'status' at row 1 in /home/dtrmfslh/public_html/modules/loans/view.php:245
+Stack trace:
+#0 /home/dtrmfslh/public_html/modules/loans/view.php(245): mysqli_stmt->execute()
+#1 /home/dtrmfslh/public_html/modules/loans/view.php(365): updateAllInstallmentStatuses(44)
+#2 /home/dtrmfslh/public_html/modules/loans/view.php(857): autoFixOverpaymentsForInstallments(44)
+#3 {main}
+  thrown in /home/dtrmfslh/public_html/modules/loans/view.php on line 245
+[21-Oct-2025 22:47:23 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:47:31 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:47:37 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:48:21 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:50:55 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:50:57 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 22:50:57 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:50:57 Asia/Colombo] Method: POST
+[21-Oct-2025 22:50:57 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:50:57 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:50:57 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:50:57 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7c0f94fab8","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 22:50:57 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:50:57 Asia/Colombo] ====================
+[21-Oct-2025 22:50:57 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 22:50:57 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 22:50:57 Asia/Colombo] Method: POST
+[21-Oct-2025 22:50:57 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 22:50:57 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 22:50:57 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 22:50:57 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 22:50:57 Asia/Colombo] cURL Error: 
+[21-Oct-2025 22:50:57 Asia/Colombo] ====================
+[21-Oct-2025 22:54:36 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:54:36 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Data truncated for column 'status' at row 1 in /home/dtrmfslh/public_html/modules/loans/view.php:245
+Stack trace:
+#0 /home/dtrmfslh/public_html/modules/loans/view.php(245): mysqli_stmt->execute()
+#1 /home/dtrmfslh/public_html/modules/loans/view.php(365): updateAllInstallmentStatuses(44)
+#2 /home/dtrmfslh/public_html/modules/loans/view.php(857): autoFixOverpaymentsForInstallments(44)
+#3 {main}
+  thrown in /home/dtrmfslh/public_html/modules/loans/view.php on line 245
+[21-Oct-2025 22:57:08 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:57:08 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Data truncated for column 'status' at row 1 in /home/dtrmfslh/public_html/modules/loans/view.php:245
+Stack trace:
+#0 /home/dtrmfslh/public_html/modules/loans/view.php(245): mysqli_stmt->execute()
+#1 /home/dtrmfslh/public_html/modules/loans/view.php(365): updateAllInstallmentStatuses(44)
+#2 /home/dtrmfslh/public_html/modules/loans/view.php(857): autoFixOverpaymentsForInstallments(44)
+#3 {main}
+  thrown in /home/dtrmfslh/public_html/modules/loans/view.php on line 245
+[21-Oct-2025 22:57:11 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:57:11 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Data truncated for column 'status' at row 1 in /home/dtrmfslh/public_html/modules/loans/view.php:245
+Stack trace:
+#0 /home/dtrmfslh/public_html/modules/loans/view.php(245): mysqli_stmt->execute()
+#1 /home/dtrmfslh/public_html/modules/loans/view.php(365): updateAllInstallmentStatuses(44)
+#2 /home/dtrmfslh/public_html/modules/loans/view.php(857): autoFixOverpaymentsForInstallments(44)
+#3 {main}
+  thrown in /home/dtrmfslh/public_html/modules/loans/view.php on line 245
+[21-Oct-2025 23:02:19 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 23:02:43 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 23:02:45 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 23:02:47 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 23:02:47 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 23:02:47 Asia/Colombo] Method: POST
+[21-Oct-2025 23:02:47 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 23:02:47 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 23:02:47 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 23:02:47 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7c3bf3abf4","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 23:02:47 Asia/Colombo] cURL Error: 
+[21-Oct-2025 23:02:47 Asia/Colombo] ====================
+[21-Oct-2025 23:02:47 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 23:02:47 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 23:02:47 Asia/Colombo] Method: POST
+[21-Oct-2025 23:02:47 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 23:02:47 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 23:02:47 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 23:02:47 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 23:02:47 Asia/Colombo] cURL Error: 
+[21-Oct-2025 23:02:47 Asia/Colombo] ====================
+[21-Oct-2025 23:05:34 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 23:05:34 Asia/Colombo] === DEBUG: Checking table structure ===
+[21-Oct-2025 23:05:34 Asia/Colombo] Loans status column: varchar(50) (Null: YES)
+[21-Oct-2025 23:05:34 Asia/Colombo] Installments status column: enum('pending','paid','overdue','completed','partial','cancelled') (Null: YES)
+[21-Oct-2025 23:05:34 Asia/Colombo] === DEBUG: End table structure check ===
+[21-Oct-2025 23:05:34 Asia/Colombo] Inserting loan - Number: LN/9/2025/0001, Status: 'pending'
+[21-Oct-2025 23:05:34 Asia/Colombo] Loan created successfully. ID: 75
+[21-Oct-2025 23:05:34 Asia/Colombo] Installments created successfully for loan ID: 75
+[21-Oct-2025 23:05:36 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 23:05:36 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 23:05:36 Asia/Colombo] Method: POST
+[21-Oct-2025 23:05:36 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 23:05:36 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 23:05:36 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 23:05:36 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7c4681cb13","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 23:05:36 Asia/Colombo] cURL Error: 
+[21-Oct-2025 23:05:36 Asia/Colombo] ====================
+[21-Oct-2025 23:05:36 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 23:05:36 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 23:05:36 Asia/Colombo] Method: POST
+[21-Oct-2025 23:05:36 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 23:05:36 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 23:05:36 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 23:05:36 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 23:05:36 Asia/Colombo] cURL Error: 
+[21-Oct-2025 23:05:36 Asia/Colombo] ====================
+[21-Oct-2025 23:05:36 Asia/Colombo] Transaction Error: Data too long for column 'status' at row 1
+[21-Oct-2025 23:08:55 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 23:08:55 Asia/Colombo] === DEBUG: Checking table structure ===
+[21-Oct-2025 23:08:55 Asia/Colombo] Loans status column: varchar(100) (Null: YES)
+[21-Oct-2025 23:08:55 Asia/Colombo] Installments status column: enum('pending','paid','overdue','completed','partial','cancelled') (Null: YES)
+[21-Oct-2025 23:08:55 Asia/Colombo] === DEBUG: End table structure check ===
+[21-Oct-2025 23:08:55 Asia/Colombo] Inserting loan - Number: LN/9/2025/0001, Status: 'pending'
+[21-Oct-2025 23:08:55 Asia/Colombo] Loan created successfully. ID: 76
+[21-Oct-2025 23:08:55 Asia/Colombo] Installments created successfully for loan ID: 76
+[21-Oct-2025 23:08:57 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 23:08:57 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 23:08:57 Asia/Colombo] Method: POST
+[21-Oct-2025 23:08:57 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 23:08:57 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 23:08:57 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 23:08:57 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7c5318efb4","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 23:08:57 Asia/Colombo] cURL Error: 
+[21-Oct-2025 23:08:57 Asia/Colombo] ====================
+[21-Oct-2025 23:08:57 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 23:08:57 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 23:08:57 Asia/Colombo] Method: POST
+[21-Oct-2025 23:08:57 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 23:08:57 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 23:08:57 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 23:08:57 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 23:08:57 Asia/Colombo] cURL Error: 
+[21-Oct-2025 23:08:57 Asia/Colombo] ====================
+[21-Oct-2025 23:08:57 Asia/Colombo] Transaction Error: Data too long for column 'status' at row 1
+[21-Oct-2025 23:10:14 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 23:10:14 Asia/Colombo] === DEBUG: Checking table structure ===
+[21-Oct-2025 23:10:14 Asia/Colombo] Loans status column: varchar(255) (Null: YES)
+[21-Oct-2025 23:10:14 Asia/Colombo] Installments status column: enum('pending','paid','overdue','completed','partial','cancelled') (Null: YES)
+[21-Oct-2025 23:10:14 Asia/Colombo] === DEBUG: End table structure check ===
+[21-Oct-2025 23:10:14 Asia/Colombo] Inserting loan - Number: LN/9/2025/0001, Status: 'pending'
+[21-Oct-2025 23:10:14 Asia/Colombo] Loan created successfully. ID: 77
+[21-Oct-2025 23:10:14 Asia/Colombo] Installments created successfully for loan ID: 77
+[21-Oct-2025 23:10:16 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 23:10:16 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 23:10:16 Asia/Colombo] Method: POST
+[21-Oct-2025 23:10:16 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 23:10:16 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 23:10:16 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 23:10:16 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7c580edd09","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 23:10:16 Asia/Colombo] cURL Error: 
+[21-Oct-2025 23:10:16 Asia/Colombo] ====================
+[21-Oct-2025 23:10:17 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 23:10:17 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 23:10:17 Asia/Colombo] Method: POST
+[21-Oct-2025 23:10:17 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 23:10:17 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 23:10:17 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 23:10:17 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 23:10:17 Asia/Colombo] cURL Error: 
+[21-Oct-2025 23:10:17 Asia/Colombo] ====================
+[21-Oct-2025 23:10:17 Asia/Colombo] Transaction Error: Data too long for column 'status' at row 1
+[21-Oct-2025 23:16:41 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 23:16:41 Asia/Colombo] === DEBUG: Checking table structure ===
+[21-Oct-2025 23:16:41 Asia/Colombo] Loans status column: enum('pending','approved','rejected','disbursed','completed') (Null: YES)
+[21-Oct-2025 23:16:41 Asia/Colombo] Installments status column: enum('pending','paid','overdue','completed','partial','cancelled') (Null: YES)
+[21-Oct-2025 23:16:41 Asia/Colombo] === DEBUG: End table structure check ===
+[21-Oct-2025 23:16:41 Asia/Colombo] Inserting loan - Number: LN/9/2025/0001, Status: 'pending'
+[21-Oct-2025 23:16:41 Asia/Colombo] Loan created successfully. ID: 78
+[21-Oct-2025 23:16:41 Asia/Colombo] Installments created successfully for loan ID: 78
+[21-Oct-2025 23:16:43 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 23:16:43 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 23:16:43 Asia/Colombo] Method: POST
+[21-Oct-2025 23:16:43 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 23:16:43 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 23:16:43 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 23:16:43 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7c703c43d6","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 23:16:43 Asia/Colombo] cURL Error: 
+[21-Oct-2025 23:16:43 Asia/Colombo] ====================
+[21-Oct-2025 23:16:43 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 23:16:43 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 23:16:43 Asia/Colombo] Method: POST
+[21-Oct-2025 23:16:43 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 23:16:43 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 23:16:43 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 23:16:43 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 23:16:43 Asia/Colombo] cURL Error: 
+[21-Oct-2025 23:16:43 Asia/Colombo] ====================
+[21-Oct-2025 23:16:43 Asia/Colombo] Transaction Error: Data too long for column 'status' at row 1
+[21-Oct-2025 23:24:06 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 23:24:06 Asia/Colombo] === DEBUG: Checking table structure ===
+[21-Oct-2025 23:24:06 Asia/Colombo] Loans status column: enum('pending','approved','rejected','disbursed','completed') (Null: YES)
+[21-Oct-2025 23:24:06 Asia/Colombo] Installments status column: enum('pending','paid','overdue','completed','partial','cancelled') (Null: YES)
+[21-Oct-2025 23:24:06 Asia/Colombo] === DEBUG: End table structure check ===
+[21-Oct-2025 23:24:06 Asia/Colombo] Inserting loan - Number: LN/9/2025/0001, Status: 'pending'
+[21-Oct-2025 23:24:06 Asia/Colombo] Loan created successfully. ID: 79
+[21-Oct-2025 23:24:06 Asia/Colombo] Installments created successfully for loan ID: 79
+[21-Oct-2025 23:24:08 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 23:24:08 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 23:24:08 Asia/Colombo] Method: POST
+[21-Oct-2025 23:24:08 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 23:24:08 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 23:24:08 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 23:24:08 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7c8c014e5c","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 23:24:08 Asia/Colombo] cURL Error: 
+[21-Oct-2025 23:24:08 Asia/Colombo] ====================
+[21-Oct-2025 23:24:08 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 23:24:08 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 23:24:08 Asia/Colombo] Method: POST
+[21-Oct-2025 23:24:08 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 23:24:08 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 23:24:08 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 23:24:08 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 23:24:08 Asia/Colombo] cURL Error: 
+[21-Oct-2025 23:24:08 Asia/Colombo] ====================
+[21-Oct-2025 23:24:08 Asia/Colombo] Transaction Error: Data too long for column 'status' at row 1
+[21-Oct-2025 23:31:41 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 23:32:06 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 23:32:42 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 23:32:50 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 23:32:52 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 23:33:00 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 23:33:03 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 23:33:05 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[24-Oct-2025 18:17:35 Asia/Colombo] PHP Fatal error:  Cannot redeclare calculateWeeklyDueDate() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:116) in /home/dtrmfslh/public_html/includes/functions.php on line 613
+[24-Oct-2025 21:47:56 Asia/Colombo] PHP Fatal error:  Cannot redeclare calculateWeeklyDueDate() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:26) in /home/dtrmfslh/public_html/includes/functions.php on line 613
+[24-Oct-2025 21:50:07 Asia/Colombo] Auto-menu: New files detected that need permissions: 10
+[24-Oct-2025 21:55:26 Asia/Colombo] Auto-menu: New files detected that need permissions: 10
+[24-Oct-2025 21:55:26 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to undefined function checkAndUpdateTableStructure() in /home/dtrmfslh/public_html/modules/loans/view.php:768
+Stack trace:
+#0 {main}
+  thrown in /home/dtrmfslh/public_html/modules/loans/view.php on line 768
+[24-Oct-2025 21:58:50 Asia/Colombo] PHP Fatal error:  Cannot redeclare updateAllInstallmentStatuses() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:180) in /home/dtrmfslh/public_html/includes/functions.php on line 74
+[24-Oct-2025 21:58:53 Asia/Colombo] PHP Fatal error:  Cannot redeclare updateAllInstallmentStatuses() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:180) in /home/dtrmfslh/public_html/includes/functions.php on line 74
+[24-Oct-2025 21:59:21 Asia/Colombo] PHP Fatal error:  Cannot redeclare updateAllInstallmentStatuses() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:180) in /home/dtrmfslh/public_html/includes/functions.php on line 74
+[24-Oct-2025 21:59:57 Asia/Colombo] PHP Fatal error:  Cannot redeclare updateAllInstallmentStatuses() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:180) in /home/dtrmfslh/public_html/includes/functions.php on line 74
+[25-Oct-2025 07:56:59 Asia/Colombo] PHP Fatal error:  Cannot redeclare checkAndUpdateTableStructure() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:26) in /home/dtrmfslh/public_html/includes/functions.php on line 19
+[25-Oct-2025 07:59:01 Asia/Colombo] PHP Fatal error:  Cannot redeclare checkAndUpdateTableStructure() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:26) in /home/dtrmfslh/public_html/includes/functions.php on line 19
+[25-Oct-2025 09:01:00 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 298
+[25-Oct-2025 09:01:00 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 299
+[25-Oct-2025 09:01:00 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 300
+[25-Oct-2025 09:01:14 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 298
+[25-Oct-2025 09:01:14 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 299
+[25-Oct-2025 09:01:14 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 300
+[25-Oct-2025 09:01:22 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 298
+[25-Oct-2025 09:01:22 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 299
+[25-Oct-2025 09:01:22 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 300
+[25-Oct-2025 10:03:03 Asia/Colombo] PHP Fatal error:  Cannot redeclare calculateWeeklyDueDate() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:26) in /home/dtrmfslh/public_html/includes/functions.php on line 611
+[25-Oct-2025 10:33:00 Asia/Colombo] PHP Fatal error:  Cannot redeclare calculateWeeklyDueDate() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:26) in /home/dtrmfslh/public_html/includes/functions.php on line 611
+[25-Oct-2025 11:51:03 Asia/Colombo] PHP Fatal error:  Cannot redeclare calculateWeeklyDueDate() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:26) in /home/dtrmfslh/public_html/includes/functions.php on line 611
+[25-Oct-2025 07:02:29 UTC] PHP Warning:  require_once(/home/dtrmfslh/public_html/modules/loans/../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/modules/loans/regenerate_installments.php on line 3
+[25-Oct-2025 07:02:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/modules/loans/../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/modules/loans/regenerate_installments.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/dtrmfslh/public_html/modules/loans/regenerate_installments.php on line 3
+[25-Oct-2025 13:37:46 Asia/Colombo] PHP Fatal error:  Cannot redeclare calculateWeeklyDueDate() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:28) in /home/dtrmfslh/public_html/includes/functions.php on line 611
+[25-Oct-2025 13:58:04 Asia/Colombo] PHP Fatal error:  Cannot redeclare calculateWeeklyDueDate() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:28) in /home/dtrmfslh/public_html/includes/functions.php on line 611
+[25-Oct-2025 16:14:17 Asia/Colombo] Auto-menu: New files detected that need permissions: 11
+[25-Oct-2025 16:14:17 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'c.name' in 'SELECT' in /home/dtrmfslh/public_html/includes/functions.php:132
+Stack trace:
+#0 /home/dtrmfslh/public_html/includes/functions.php(132): mysqli->prepare('SELECT l.*, c.n...')
+#1 /home/dtrmfslh/public_html/modules/loans/view.php(781): getLoanById(98)
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 132
+[25-Oct-2025 16:57:30 Asia/Colombo] PHP Fatal error:  Cannot redeclare calculateWeeklyDueDate() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:117) in /home/dtrmfslh/public_html/includes/functions.php on line 611
+[25-Oct-2025 11:28:49 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/dtrmfslh/public_html/modules/loans/view.php on line 116
+[25-Oct-2025 11:29:35 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/dtrmfslh/public_html/modules/loans/view.php on line 116
+[25-Oct-2025 11:29:36 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/dtrmfslh/public_html/modules/loans/view.php on line 116
+[25-Oct-2025 11:29:37 UTC] PHP Parse error:  Unmatched '}' in /home/dtrmfslh/public_html/modules/loans/view.php on line 141
+[25-Oct-2025 11:29:37 UTC] PHP Parse error:  Unmatched '}' in /home/dtrmfslh/public_html/modules/loans/view.php on line 141
+[25-Oct-2025 11:29:41 UTC] PHP Parse error:  Unmatched '}' in /home/dtrmfslh/public_html/modules/loans/view.php on line 141
+[25-Oct-2025 11:29:42 UTC] PHP Parse error:  Unmatched '}' in /home/dtrmfslh/public_html/modules/loans/view.php on line 141
+[25-Oct-2025 11:29:50 UTC] PHP Parse error:  Unmatched '}' in /home/dtrmfslh/public_html/modules/loans/view.php on line 141
+[25-Oct-2025 11:29:51 UTC] PHP Parse error:  Unmatched '}' in /home/dtrmfslh/public_html/modules/loans/view.php on line 141
+[25-Oct-2025 11:29:52 UTC] PHP Parse error:  Unmatched '}' in /home/dtrmfslh/public_html/modules/loans/view.php on line 141
+[25-Oct-2025 11:29:52 UTC] PHP Parse error:  Unmatched '}' in /home/dtrmfslh/public_html/modules/loans/view.php on line 141
+[25-Oct-2025 11:29:55 UTC] PHP Parse error:  Unmatched '}' in /home/dtrmfslh/public_html/modules/loans/view.php on line 141
+[25-Oct-2025 11:30:08 UTC] PHP Parse error:  Unmatched '}' in /home/dtrmfslh/public_html/modules/loans/view.php on line 141
+[25-Oct-2025 17:01:14 Asia/Colombo] PHP Fatal error:  Cannot redeclare calculateWeeklyDueDate() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:117) in /home/dtrmfslh/public_html/includes/functions.php on line 611
+[25-Oct-2025 17:03:15 Asia/Colombo] PHP Fatal error:  Cannot redeclare calculateWeeklyDueDate() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:117) in /home/dtrmfslh/public_html/includes/functions.php on line 611
+[25-Oct-2025 17:03:19 Asia/Colombo] PHP Fatal error:  Cannot redeclare calculateWeeklyDueDate() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:117) in /home/dtrmfslh/public_html/includes/functions.php on line 611
+[07-Nov-2025 07:59:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[07-Nov-2025 08:00:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[07-Nov-2025 08:00:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[07-Nov-2025 08:00:15 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[07-Nov-2025 08:01:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[07-Nov-2025 08:01:05 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[07-Nov-2025 08:01:06 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[07-Nov-2025 14:23:34 Asia/Colombo] PHP Fatal error:  Cannot redeclare calculateWeeklyDueDate() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:104) in /home/dtrmfslh/public_html/includes/functions.php on line 611
+[07-Nov-2025 14:23:38 Asia/Colombo] PHP Fatal error:  Cannot redeclare calculateWeeklyDueDate() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:104) in /home/dtrmfslh/public_html/includes/functions.php on line 611
+[09-Nov-2025 02:42:19 UTC] PHP Parse error:  Unclosed '{' on line 783 in /home/dtrmfslh/public_html/modules/loans/view.php on line 1537
+[09-Nov-2025 02:42:22 UTC] PHP Parse error:  Unclosed '{' on line 783 in /home/dtrmfslh/public_html/modules/loans/view.php on line 1537
+[09-Nov-2025 02:42:25 UTC] PHP Parse error:  Unclosed '{' on line 783 in /home/dtrmfslh/public_html/modules/loans/view.php on line 1537
+[09-Nov-2025 02:42:28 UTC] PHP Parse error:  Unclosed '{' on line 783 in /home/dtrmfslh/public_html/modules/loans/view.php on line 1537
+[09-Nov-2025 02:42:36 UTC] PHP Parse error:  Unclosed '{' on line 783 in /home/dtrmfslh/public_html/modules/loans/view.php on line 1537
+[09-Nov-2025 02:43:05 UTC] PHP Parse error:  Unclosed '{' on line 783 in /home/dtrmfslh/public_html/modules/loans/view.php on line 1537
+[09-Nov-2025 02:43:12 UTC] PHP Parse error:  Unclosed '{' on line 783 in /home/dtrmfslh/public_html/modules/loans/view.php on line 1537
+[09-Nov-2025 02:43:35 UTC] PHP Parse error:  Unclosed '{' on line 783 in /home/dtrmfslh/public_html/modules/loans/view.php on line 1537
+[09-Nov-2025 08:14:47 Asia/Colombo] PHP Fatal error:  Cannot redeclare calculateWeeklyDueDate() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:104) in /home/dtrmfslh/public_html/includes/functions.php on line 611
+[09-Nov-2025 08:29:59 Asia/Colombo] PHP Fatal error:  Cannot redeclare calculateWeeklyDueDate() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:26) in /home/dtrmfslh/public_html/includes/functions.php on line 611
+[09-Nov-2025 09:11:13 Asia/Colombo] PHP Fatal error:  Cannot redeclare checkAndUpdateTableStructure() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:57) in /home/dtrmfslh/public_html/includes/functions.php on line 89
+[09-Nov-2025 09:14:08 Asia/Colombo] PHP Fatal error:  Cannot redeclare calculateWeeklyDueDate() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:26) in /home/dtrmfslh/public_html/includes/functions.php on line 291
+[09-Nov-2025 10:00:50 Asia/Colombo] PHP Fatal error:  Cannot redeclare checkAndUpdateTableStructure() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:57) in /home/dtrmfslh/public_html/includes/functions.php on line 89
+[09-Nov-2025 10:03:35 Asia/Colombo] PHP Fatal error:  Cannot redeclare checkAndUpdateTableStructure() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:57) in /home/dtrmfslh/public_html/includes/functions.php on line 89
+[09-Nov-2025 10:04:52 Asia/Colombo] PHP Fatal error:  Cannot redeclare checkAndUpdateTableStructure() (previously declared in /home/dtrmfslh/public_html/modules/loans/view.php:57) in /home/dtrmfslh/public_html/includes/functions.php on line 89
+[09-Nov-2025 10:45:34 Asia/Colombo] Auto-menu: New files detected that need permissions: 11
+[09-Nov-2025 10:45:34 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to undefined function calculateWeeklyDueDate() in /home/dtrmfslh/public_html/modules/loans/disbursement.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/dtrmfslh/public_html/modules/loans/disbursement.php on line 779
+[09-Nov-2025 10:45:57 Asia/Colombo] Auto-menu: New files detected that need permissions: 11
+[09-Nov-2025 10:45:57 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to undefined function calculateWeeklyDueDate() in /home/dtrmfslh/public_html/modules/loans/disbursement.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/dtrmfslh/public_html/modules/loans/disbursement.php on line 779

@@ -1,0 +1,35 @@
+[21-Oct-2025 19:32:16 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:32:21 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:32:23 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:32:29 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:32:35 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:32:37 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[23-Oct-2025 11:16:40 UTC] PHP Warning:  require_once(../../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/modules/reports/collection_report.php on line 2
+[23-Oct-2025 11:16:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/modules/reports/collection_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dtrmfslh/public_html/modules/reports/collection_report.php on line 2
+[23-Oct-2025 11:16:42 UTC] PHP Warning:  require_once(../../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/modules/reports/collection_report.php on line 2
+[23-Oct-2025 11:16:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/modules/reports/collection_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dtrmfslh/public_html/modules/reports/collection_report.php on line 2
+[23-Oct-2025 11:19:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[24-Oct-2025 05:36:25 UTC] PHP Warning:  require_once(../../includes/auth.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/modules/reports/Portfolio_Report.php on line 5
+[24-Oct-2025 05:36:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../includes/auth.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/modules/reports/Portfolio_Report.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dtrmfslh/public_html/modules/reports/Portfolio_Report.php on line 5
+[24-Oct-2025 05:36:30 UTC] PHP Warning:  require_once(../../includes/auth.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/modules/reports/Portfolio_Report.php on line 5
+[24-Oct-2025 05:36:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../includes/auth.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/modules/reports/Portfolio_Report.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dtrmfslh/public_html/modules/reports/Portfolio_Report.php on line 5
+[24-Oct-2025 05:39:55 UTC] PHP Warning:  require_once(../../includes/auth.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/modules/reports/Portfolio_Report.php on line 5
+[24-Oct-2025 05:39:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../includes/auth.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/modules/reports/Portfolio_Report.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dtrmfslh/public_html/modules/reports/Portfolio_Report.php on line 5
+[26-Oct-2025 17:17:30 Asia/Colombo] PHP Fatal error:  Cannot redeclare getStatusBadgeClass() (previously declared in /home/dtrmfslh/public_html/modules/reports/investment.php:647) in /home/dtrmfslh/public_html/includes/functions.php on line 1069
+[02-Nov-2025 12:44:06 Asia/Colombo] PHP Fatal error:  Cannot redeclare getCBOById() (previously declared in /home/dtrmfslh/public_html/modules/reports/center_report.php:64) in /home/dtrmfslh/public_html/includes/functions.php on line 170
+[02-Nov-2025 12:44:09 Asia/Colombo] PHP Fatal error:  Cannot redeclare getCBOById() (previously declared in /home/dtrmfslh/public_html/modules/reports/center_report.php:64) in /home/dtrmfslh/public_html/includes/functions.php on line 170

@@ -1,0 +1,83 @@
+[21-Oct-2025 14:01:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[21-Oct-2025 19:31:09 Asia/Colombo] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/modules/customer/view.php on line 12
+[21-Oct-2025 19:31:09 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/modules/customer/view.php:1) in /home/dtrmfslh/public_html/modules/customer/view.php on line 17
+[21-Oct-2025 14:01:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/modules/customer/register.php on line 5
+[21-Oct-2025 14:01:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[21-Oct-2025 19:31:36 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/modules/customer/register.php:1) in /home/dtrmfslh/public_html/modules/customer/register.php on line 14
+[21-Oct-2025 14:01:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[21-Oct-2025 19:31:43 Asia/Colombo] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/modules/customer/view.php on line 12
+[21-Oct-2025 19:31:43 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/modules/customer/view.php:1) in /home/dtrmfslh/public_html/modules/customer/view.php on line 17
+[21-Oct-2025 14:13:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/modules/customer/register.php on line 5
+[21-Oct-2025 14:13:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[21-Oct-2025 19:43:14 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/modules/customer/register.php:1) in /home/dtrmfslh/public_html/modules/customer/register.php on line 14
+[21-Oct-2025 14:19:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[21-Oct-2025 19:49:02 Asia/Colombo] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/modules/customer/view.php on line 12
+[21-Oct-2025 19:49:02 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/modules/customer/view.php:1) in /home/dtrmfslh/public_html/modules/customer/view.php on line 17
+[21-Oct-2025 14:20:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[21-Oct-2025 19:50:13 Asia/Colombo] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/modules/customer/view.php on line 12
+[21-Oct-2025 19:50:13 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/modules/customer/view.php:1) in /home/dtrmfslh/public_html/modules/customer/view.php on line 17
+[21-Oct-2025 14:20:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[21-Oct-2025 19:50:33 Asia/Colombo] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/modules/customer/view.php on line 12
+[21-Oct-2025 19:50:33 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/modules/customer/view.php:1) in /home/dtrmfslh/public_html/modules/customer/view.php on line 17
+[21-Oct-2025 14:20:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[21-Oct-2025 19:50:52 Asia/Colombo] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/modules/customer/view.php on line 12
+[21-Oct-2025 19:50:52 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/modules/customer/view.php:1) in /home/dtrmfslh/public_html/modules/customer/view.php on line 17
+[21-Oct-2025 20:15:46 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:15:50 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:15:52 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 14:47:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/modules/customer/register.php on line 5
+[21-Oct-2025 14:47:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 6
+[21-Oct-2025 20:17:21 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/modules/customer/register.php:1) in /home/dtrmfslh/public_html/modules/customer/register.php on line 14
+[21-Oct-2025 20:17:58 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:18:04 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:18:06 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:18:43 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:27:36 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:27:44 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:05:09 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:05:12 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:08:47 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:08:50 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:08:53 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:08:55 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:09:15 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:10:28 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:10:31 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:10:34 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:12:37 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:13:01 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:13:24 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:13:33 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:13:39 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:13:40 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:13:46 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:14:02 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:14:04 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:45:19 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:45:24 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:45:25 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:45:25 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:46:48 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:46:52 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:46:54 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:53:20 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:53:28 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:53:32 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:53:38 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:53:46 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:54:13 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:54:17 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[25-Oct-2025 08:52:26 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:52:26 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(71): require_once()
+#1 /home/dtrmfslh/public_html/modules/customer/view.php(8): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:55:08 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:55:08 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(71): require_once()
+#1 /home/dtrmfslh/public_html/modules/customer/view.php(8): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
