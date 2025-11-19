@@ -1,0 +1,142 @@
+[21-Oct-2025 23:31:41 Asia/Colombo] === LOAN APPLICATION STARTED ===
+[21-Oct-2025 23:31:41 Asia/Colombo] === FORM SUBMISSION DETECTED ===
+[21-Oct-2025 23:31:41 Asia/Colombo] POST Data: Array
+(
+    [submit_loans] => 
+)
+
+[21-Oct-2025 23:31:41 Asia/Colombo] === ATTEMPTING LOAN INSERTION ===
+[21-Oct-2025 23:31:41 Asia/Colombo] Loan Number: LN/9/2025/0001
+[21-Oct-2025 23:31:41 Asia/Colombo] Customer ID: 34
+[21-Oct-2025 23:31:41 Asia/Colombo] CBO ID: 10
+[21-Oct-2025 23:31:41 Asia/Colombo] Staff ID: 1
+[21-Oct-2025 23:31:41 Asia/Colombo] Amount: 50000
+[21-Oct-2025 23:31:41 Asia/Colombo] Document Charge: 1500
+[21-Oct-2025 23:31:41 Asia/Colombo] Total Loan Amount: 67600
+[21-Oct-2025 23:31:41 Asia/Colombo] Weekly Installment: 2600
+[21-Oct-2025 23:31:41 Asia/Colombo] Number of Weeks: 26
+[21-Oct-2025 23:31:41 Asia/Colombo] Interest Rate: 35.2
+[21-Oct-2025 23:31:41 Asia/Colombo] SQL Query: INSERT INTO loans (loan_number, customer_id, cbo_id, staff_id, 
+                                              amount, service_charge, document_charge, 
+                                              total_loan_amount, weekly_installment, number_of_weeks, 
+                                              interest_rate, applied_date, status) 
+                            VALUES (?, ?, ?, ?, ?, 0, ?, ?, ?, ?, ?, CURDATE(), 'pending')
+[21-Oct-2025 23:31:41 Asia/Colombo] Loan inserted successfully. ID: 80
+[21-Oct-2025 23:31:42 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 23:31:42 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 23:31:42 Asia/Colombo] Method: POST
+[21-Oct-2025 23:31:42 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 23:31:42 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 23:31:42 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 23:31:42 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7ca86e3f4e","to":"94778969190","from":"TextLKDemo","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 23:31:42 Asia/Colombo] cURL Error: 
+[21-Oct-2025 23:31:42 Asia/Colombo] ====================
+[21-Oct-2025 23:31:43 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 23:31:43 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 23:31:43 Asia/Colombo] Method: POST
+[21-Oct-2025 23:31:43 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 23:31:43 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear sumuth kumara, your loan application LN\/9\/2025\/0001 for Rs. 50,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 23:31:43 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 23:31:43 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 23:31:43 Asia/Colombo] cURL Error: 
+[21-Oct-2025 23:31:43 Asia/Colombo] ====================
+[21-Oct-2025 23:31:43 Asia/Colombo] CRITICAL ERROR: Error submitting loan applications: Data too long for column 'status' at row 1
+[21-Oct-2025 23:31:43 Asia/Colombo] === LOAN APPLICATION PAGE LOADED ===
+[21-Oct-2025 23:32:06 Asia/Colombo] === LOAN APPLICATION STARTED ===
+[21-Oct-2025 23:32:06 Asia/Colombo] === LOAN APPLICATION PAGE LOADED ===
+[21-Oct-2025 23:32:42 Asia/Colombo] === LOAN APPLICATION STARTED ===
+[21-Oct-2025 23:32:42 Asia/Colombo] === FORM SUBMISSION DETECTED ===
+[21-Oct-2025 23:32:42 Asia/Colombo] POST Data: Array
+(
+    [customer_id] => 34
+    [remove_customer] => 
+)
+
+[21-Oct-2025 23:32:42 Asia/Colombo] === LOAN APPLICATION PAGE LOADED ===
+[21-Oct-2025 23:32:50 Asia/Colombo] === LOAN APPLICATION STARTED ===
+[21-Oct-2025 23:32:50 Asia/Colombo] === FORM SUBMISSION DETECTED ===
+[21-Oct-2025 23:32:50 Asia/Colombo] POST Data: Array
+(
+    [field_officer_id] => 3
+)
+
+[21-Oct-2025 23:32:50 Asia/Colombo] === LOAN APPLICATION PAGE LOADED ===
+[21-Oct-2025 23:32:52 Asia/Colombo] === LOAN APPLICATION STARTED ===
+[21-Oct-2025 23:32:52 Asia/Colombo] === FORM SUBMISSION DETECTED ===
+[21-Oct-2025 23:32:52 Asia/Colombo] POST Data: Array
+(
+    [field_officer_id] => 3
+    [cbo_id] => 1
+)
+
+[21-Oct-2025 23:32:52 Asia/Colombo] === LOAN APPLICATION PAGE LOADED ===
+[21-Oct-2025 23:33:00 Asia/Colombo] === LOAN APPLICATION STARTED ===
+[21-Oct-2025 23:33:00 Asia/Colombo] === FORM SUBMISSION DETECTED ===
+[21-Oct-2025 23:33:00 Asia/Colombo] POST Data: Array
+(
+    [field_officer_id] => 3
+    [cbo_id] => 1
+    [customer_id] => 
+    [customer_nic] => 200302802081
+    [search_customer] => 
+    [loan_amount] => 
+)
+
+[21-Oct-2025 23:33:00 Asia/Colombo] === LOAN APPLICATION PAGE LOADED ===
+[21-Oct-2025 23:33:03 Asia/Colombo] === LOAN APPLICATION STARTED ===
+[21-Oct-2025 23:33:03 Asia/Colombo] === FORM SUBMISSION DETECTED ===
+[21-Oct-2025 23:33:03 Asia/Colombo] POST Data: Array
+(
+    [field_officer_id] => 3
+    [cbo_id] => 1
+    [customer_id] => 7
+    [customer_nic] => 200302802081
+    [loan_amount] => 20000
+    [add_customer] => 
+)
+
+[21-Oct-2025 23:33:03 Asia/Colombo] === LOAN APPLICATION PAGE LOADED ===
+[21-Oct-2025 23:33:05 Asia/Colombo] === LOAN APPLICATION STARTED ===
+[21-Oct-2025 23:33:05 Asia/Colombo] === FORM SUBMISSION DETECTED ===
+[21-Oct-2025 23:33:05 Asia/Colombo] POST Data: Array
+(
+    [submit_loans] => 
+)
+
+[21-Oct-2025 23:33:05 Asia/Colombo] === ATTEMPTING LOAN INSERTION ===
+[21-Oct-2025 23:33:05 Asia/Colombo] Loan Number: LN/1/2025/0047
+[21-Oct-2025 23:33:05 Asia/Colombo] Customer ID: 7
+[21-Oct-2025 23:33:05 Asia/Colombo] CBO ID: 1
+[21-Oct-2025 23:33:05 Asia/Colombo] Staff ID: 1
+[21-Oct-2025 23:33:05 Asia/Colombo] Amount: 20000
+[21-Oct-2025 23:33:05 Asia/Colombo] Document Charge: 600
+[21-Oct-2025 23:33:05 Asia/Colombo] Total Loan Amount: 27060
+[21-Oct-2025 23:33:05 Asia/Colombo] Weekly Installment: 1230
+[21-Oct-2025 23:33:05 Asia/Colombo] Number of Weeks: 22
+[21-Oct-2025 23:33:05 Asia/Colombo] Interest Rate: 35.3
+[21-Oct-2025 23:33:05 Asia/Colombo] SQL Query: INSERT INTO loans (loan_number, customer_id, cbo_id, staff_id, 
+                                              amount, service_charge, document_charge, 
+                                              total_loan_amount, weekly_installment, number_of_weeks, 
+                                              interest_rate, applied_date, status) 
+                            VALUES (?, ?, ?, ?, ?, 0, ?, ?, ?, ?, ?, CURDATE(), 'pending')
+[21-Oct-2025 23:33:05 Asia/Colombo] Loan inserted successfully. ID: 81
+[21-Oct-2025 23:33:07 Asia/Colombo] === SMS API DEBUG [OAuth-recipient] ===
+[21-Oct-2025 23:33:07 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 23:33:07 Asia/Colombo] Method: POST
+[21-Oct-2025 23:33:07 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 23:33:07 Asia/Colombo] Data: {"recipient":"+94778969190","message":"Dear HAMMANA VIrDANA ARACHCHIGE RAVINDU, your loan application LN\/1\/2025\/0047 for Rs. 20,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 23:33:07 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 23:33:07 Asia/Colombo] Response: {"status":"success","message":"Your message was successfully delivered","data":{"uid":"68f7cadbe63f3","to":"94778969190","from":"TextLKDemo","message":"Dear HAMMANA VIrDANA ARACHCHIGE RAVINDU, your loan application LN\/1\/2025\/0047 for Rs. 20,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","status":"Delivered","cost":"2","sms_count":2}}
+[21-Oct-2025 23:33:07 Asia/Colombo] cURL Error: 
+[21-Oct-2025 23:33:07 Asia/Colombo] ====================
+[21-Oct-2025 23:33:08 Asia/Colombo] === SMS API DEBUG [OAuth-to] ===
+[21-Oct-2025 23:33:08 Asia/Colombo] URL: https://app.text.lk/api/v3/sms/send
+[21-Oct-2025 23:33:08 Asia/Colombo] Method: POST
+[21-Oct-2025 23:33:08 Asia/Colombo] Headers: ["Authorization: Bearer 1938|H2Ygz6gaK8H9BCKSu6nqNS2xDHt1hp9KIbAqQEE38cd7796c","Content-Type: application\/json","Accept: application\/json"]
+[21-Oct-2025 23:33:08 Asia/Colombo] Data: {"to":"+94778969190","message":"Dear HAMMANA VIrDANA ARACHCHIGE RAVINDU, your loan application LN\/1\/2025\/0047 for Rs. 20,000.00 has been submitted successfully. We will review and update you shortly. - Micro Finance","sender_id":"TextLKDemo"}
+[21-Oct-2025 23:33:08 Asia/Colombo] HTTP Code: 200
+[21-Oct-2025 23:33:08 Asia/Colombo] Response: {"status":"error","message":"The recipient field is required."}
+[21-Oct-2025 23:33:08 Asia/Colombo] cURL Error: 
+[21-Oct-2025 23:33:08 Asia/Colombo] ====================
+[21-Oct-2025 23:33:08 Asia/Colombo] CRITICAL ERROR: Error submitting loan applications: Data too long for column 'status' at row 1
+[21-Oct-2025 23:33:08 Asia/Colombo] === LOAN APPLICATION PAGE LOADED ===

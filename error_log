@@ -1,0 +1,328 @@
+[21-Oct-2025 13:09:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 13:09:59 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 13:16:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 13:16:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 13:17:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 13:17:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 13:19:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 13:20:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 13:20:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 13:21:20 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 13:21:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 18:51:23 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/config/config.php:1) in /home/dtrmfslh/public_html/login.php on line 27
+[21-Oct-2025 13:22:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 18:52:00 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/config/config.php:1) in /home/dtrmfslh/public_html/login.php on line 27
+[21-Oct-2025 13:22:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 18:52:08 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/config/config.php:1) in /home/dtrmfslh/public_html/login.php on line 27
+[21-Oct-2025 13:26:08 UTC] PHP Parse error:  syntax error, unexpected identifier "DB_NAME", expecting ")" in /home/dtrmfslh/public_html/config/config.php on line 13
+[21-Oct-2025 13:27:45 UTC] PHP Parse error:  syntax error, unexpected identifier "DB_NAME", expecting ")" in /home/dtrmfslh/public_html/config/config.php on line 13
+[21-Oct-2025 13:28:43 UTC] PHP Parse error:  syntax error, unexpected identifier "DB_NAME", expecting ")" in /home/dtrmfslh/public_html/config/config.php on line 13
+[21-Oct-2025 13:30:34 UTC] PHP Parse error:  syntax error, unexpected identifier "DB_NAME", expecting ")" in /home/dtrmfslh/public_html/config/config.php on line 13
+[21-Oct-2025 13:30:51 UTC] PHP Parse error:  syntax error, unexpected identifier "DB_NAME", expecting ")" in /home/dtrmfslh/public_html/config/config.php on line 13
+[21-Oct-2025 13:30:51 UTC] PHP Parse error:  syntax error, unexpected identifier "DB_NAME", expecting ")" in /home/dtrmfslh/public_html/config/config.php on line 13
+[21-Oct-2025 13:31:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'dtrmfslh_micro_finance'@'localhost' (using password: YES) in /home/dtrmfslh/public_html/config/config.php:10
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(10): mysqli->__construct('localhost', 'dtrmfslh_micro_...', Object(SensitiveParameterValue), 'dtrmfslh_micro_...')
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/config/config.php on line 10
+[21-Oct-2025 13:35:13 UTC] PHP Parse error:  syntax error, unexpected identifier "DB_NAME", expecting ")" in /home/dtrmfslh/public_html/config/config.php on line 13
+[21-Oct-2025 13:38:13 UTC] PHP Parse error:  syntax error, unexpected identifier "DB_NAME", expecting ")" in /home/dtrmfslh/public_html/config/config.php on line 13
+[21-Oct-2025 13:38:44 UTC] PHP Parse error:  syntax error, unexpected identifier "DB_NAME", expecting ")" in /home/dtrmfslh/public_html/config/config.php on line 13
+[21-Oct-2025 13:43:36 UTC] PHP Parse error:  syntax error, unexpected identifier "DB_NAME", expecting ")" in /home/dtrmfslh/public_html/config/config.php on line 13
+[21-Oct-2025 13:43:59 UTC] PHP Parse error:  syntax error, unexpected identifier "DB_NAME", expecting ")" in /home/dtrmfslh/public_html/config/config.php on line 13
+[21-Oct-2025 13:44:57 UTC] PHP Parse error:  syntax error, unexpected identifier "DB_NAME", expecting ")" in /home/dtrmfslh/public_html/config/config.php on line 13
+[21-Oct-2025 13:46:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 13:47:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 13:47:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 13:48:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 19:18:07 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/config/config.php:1) in /home/dtrmfslh/public_html/login.php on line 27
+[21-Oct-2025 13:48:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dtrmfslh/public_html/config/config.php on line 8
+[21-Oct-2025 19:18:45 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/config/config.php:1) in /home/dtrmfslh/public_html/login.php on line 27
+[21-Oct-2025 19:23:06 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/includes/sms_functions.php:462) in /home/dtrmfslh/public_html/login.php on line 27
+[21-Oct-2025 19:28:24 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:28:24 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:44:40 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:44:40 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:51:36 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:52:24 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 19:59:37 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:17:14 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 20:17:14 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:01:20 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:16:40 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[21-Oct-2025 22:46:23 Asia/Colombo] Auto-menu: New files detected that need permissions: 5
+[24-Oct-2025 22:02:23 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[24-Oct-2025 22:02:23 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[24-Oct-2025 22:32:06 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[24-Oct-2025 22:32:06 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[24-Oct-2025 23:01:59 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[24-Oct-2025 23:01:59 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[24-Oct-2025 23:32:31 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[24-Oct-2025 23:32:31 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 00:02:05 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 00:02:05 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 00:32:49 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 00:32:49 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 01:02:13 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 01:02:13 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 01:32:33 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 01:32:33 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 02:01:57 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 02:01:57 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 02:32:27 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 02:32:27 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 03:02:08 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 03:02:08 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 03:32:32 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 03:32:32 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 04:02:33 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 04:02:33 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 04:32:40 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 04:32:40 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 05:02:24 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 05:02:24 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 05:32:41 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 05:32:41 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 06:02:26 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 06:02:26 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 06:32:30 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 06:32:30 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:02:26 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:02:26 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:32:34 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:32:34 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:47:42 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:47:42 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:50:39 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:50:39 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:50:43 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:50:43 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:50:47 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:50:47 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:55:33 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:55:33 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:56:44 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:56:44 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/login.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:59:04 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 07:59:04 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:02:30 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:02:30 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(83): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:04:21 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:04:21 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(71): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:04:23 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:04:23 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(71): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:05:35 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:05:35 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(71): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:32:40 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:32:40 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(71): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:55:13 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:55:13 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(71): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:55:13 Asia/Colombo] PHP Warning:  require_once(/home/dtrmfslh/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:55:13 Asia/Colombo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dtrmfslh/public_html/includes/../../config/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dtrmfslh/public_html/includes/functions.php:4
+Stack trace:
+#0 /home/dtrmfslh/public_html/config/config.php(71): require_once()
+#1 /home/dtrmfslh/public_html/index.php(3): require_once('/home/dtrmfslh/...')
+#2 {main}
+  thrown in /home/dtrmfslh/public_html/includes/functions.php on line 4
+[25-Oct-2025 08:59:36 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 298
+[25-Oct-2025 08:59:36 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 299
+[25-Oct-2025 08:59:36 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 300
+[25-Oct-2025 09:00:05 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 298
+[25-Oct-2025 09:00:05 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 299
+[25-Oct-2025 09:00:05 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 300
+[25-Oct-2025 09:00:11 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 298
+[25-Oct-2025 09:00:11 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 299
+[25-Oct-2025 09:00:11 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 300
+[25-Oct-2025 09:00:11 Asia/Colombo] [WARNING] Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/config/config.php:289) in /home/dtrmfslh/public_html/login.php on line 27
+[25-Oct-2025 09:02:42 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 298
+[25-Oct-2025 09:02:42 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 299
+[25-Oct-2025 09:02:42 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 300
+[25-Oct-2025 09:02:45 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 298
+[25-Oct-2025 09:02:45 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 299
+[25-Oct-2025 09:02:45 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 300
+[25-Oct-2025 09:02:52 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 298
+[25-Oct-2025 09:02:52 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 299
+[25-Oct-2025 09:02:52 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 300
+[25-Oct-2025 09:02:54 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 298
+[25-Oct-2025 09:02:54 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 299
+[25-Oct-2025 09:02:54 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 300
+[25-Oct-2025 09:03:03 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 298
+[25-Oct-2025 09:03:03 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 299
+[25-Oct-2025 09:03:03 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 300
+[25-Oct-2025 09:03:03 Asia/Colombo] [WARNING] Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/config/config.php:289) in /home/dtrmfslh/public_html/login.php on line 27
+[25-Oct-2025 09:03:06 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 298
+[25-Oct-2025 09:03:06 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 299
+[25-Oct-2025 09:03:06 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 300
+[25-Oct-2025 09:03:10 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 298
+[25-Oct-2025 09:03:10 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 299
+[25-Oct-2025 09:03:10 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 300
+[25-Oct-2025 09:03:10 Asia/Colombo] [WARNING] Cannot modify header information - headers already sent by (output started at /home/dtrmfslh/public_html/config/config.php:289) in /home/dtrmfslh/public_html/login.php on line 27
+[25-Oct-2025 09:15:26 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 298
+[25-Oct-2025 09:15:26 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 299
+[25-Oct-2025 09:15:26 Asia/Colombo] [WARNING] ini_set(): Session ini settings cannot be changed when a session is active in /home/dtrmfslh/public_html/config/config.php on line 300
